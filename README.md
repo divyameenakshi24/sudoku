@@ -24,8 +24,8 @@ Calculate the time taken to solve the sudoku.
 
 ## Program:
 ```python3
-    Developed by: Prasannakumar M
-    Register No:212220230035
+    Developed by: A.Divya Meenakshi
+    Register No:212220230014
 %matplotlib inline
 import matplotlib.pyplot as plt
 import random
